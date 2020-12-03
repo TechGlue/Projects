@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T22:04:49.272Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8kyfdzDu4BKnKNDeswAL" version="13.10.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T22:09:49.677Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zuUOOlJLXa3IXUKgSY6e" version="13.10.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="932" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -60,7 +60,7 @@
           <mxGeometry y="350" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="&lt;Interface&gt;&#xa;Comparable" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="304" y="275" width="160" height="100" as="geometry">
+          <mxGeometry x="304" y="275" width="160" height="85" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--14" value="+ CompareTo(T): int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
           <mxGeometry y="48" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mDD58AcUAqjOnKikPVUD-2" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontFamily=Verdana;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6">
+        <mxCell id="mDD58AcUAqjOnKikPVUD-2" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontFamily=Verdana;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" target="zkfFHV4jXpPFQw0GAbJ--13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="384" y="495" as="sourcePoint" />
             <mxPoint x="383.5" y="375" as="targetPoint" />
@@ -117,6 +117,14 @@
         <mxCell id="mDD58AcUAqjOnKikPVUD-42" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;+ testRealNum(): void&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Verdana;" vertex="1" parent="mDD58AcUAqjOnKikPVUD-29">
           <mxGeometry y="348" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mDD58AcUAqjOnKikPVUD-43" value="Fraction UML Diagram" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="278" y="30" width="216" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;12/03/2020&lt;/font&gt;" placeholders="1" id="mDD58AcUAqjOnKikPVUD-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="10" y="40" width="160" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
