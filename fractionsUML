@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T22:19:36.695Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3CaldOHNLKn_qYsxcJZ7" version="13.10.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T22:36:15.695Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i8vNKrwsXzkGG4Jgc8FH" version="13.10.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="799" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,11 +120,6 @@
         <mxCell id="mDD58AcUAqjOnKikPVUD-43" value="Fraction UML Diagram" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278" y="30" width="216" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;12/03/2020&lt;/font&gt;" placeholders="1" id="mDD58AcUAqjOnKikPVUD-44">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="10" y="40" width="160" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
